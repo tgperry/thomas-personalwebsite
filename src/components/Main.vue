@@ -9,7 +9,7 @@
         </div>
         
         <h1 class="about-title">About Me</h1>
-        <p class="about">I am currently completing my Senior year at Colorado School of Mines pursuing a BS in Computer Science with an emphasis in Data Science. My experience in jobs, education, and general life has consistently involved creativity, motivation, and high spirits. In my free time I work on personal web and mobile app projects, game development, my culinary skills, and a getting outdoors whenever I can. Thank you for visiting my website, I hope it gives you a little better of an idea about myself! If you ever wish to contact me, please do not hesitate from using one of the methods above, I would be happy to hear from you to chat about anything.</p>
+        <p class="about">I am currently completing my Senior year at Colorado School of Mines pursuing a BS in Computer Science with an emphasis in Data Science. My experience in jobs, education, and general life has consistently involved creativity, motivation, and high spirits. In my free time I work on personal web and mobile app projects, game development, my culinary skills, and getting outdoors whenever I can. Thank you for visiting my website, I hope it gives you a little better of an idea about myself! If you ever wish to contact me, please do not hesitate from using one of the methods above, I would be happy to hear from you to chat about anything.</p>
         
         <h1 class="education-title">Education</h1>
         <p class="education">Education is at the core of what makes me, me. I have had the distinct privilege of receiving some of the best education possible, from elementary school to my undergrad, and have been supported by the teachers I have met from every level the entire way.</p>
@@ -64,7 +64,7 @@
         </p>
 
         <h1 class="work-title">Sunlight Aerospace - Boulder, Colorado, US</h1>
-        <p class="job">Contract Software Engineer<br>August 2019 - December 2020</p>
+        <p class="job">Contract Software Engineer<br>August 2019 - December 2019</p>
         <p class="description">
             Developed a threat detection sensor to aid unmanned flight of autonomous HALE (High Altitude Long Endurance) drones designed to deliver telecommunications to people or teams in remote locations.<br>
             Collaborated in an Agile environment to produce quality assured Python code (70% object recognition success in flight, 1 second heads up object prediction) based on the YOLO RCNN algorithm. The team I worked on performed
