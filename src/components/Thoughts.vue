@@ -31,7 +31,7 @@ export default {
                 "I started this website in React, but quickly ran back to glorious Vue.",
                 "Rugby is the hardest sport to understand the rules of, trust me I tried to play it.",
                 "Fallout is the best RPG franchise on console.",
-                "The Seattle Supersonics would have made more money staying in Seattle than they did in OKC.",
+                "The Seattle Supersonics would have made more money staying in Seattle than they have in OKC.",
                 "Everyone on HGTV HouseHunters always complains about how small the kitchen is knowing they're just gonna get takeout every night.",
                 "I've had the same core group of friends since Kindergarden. I would do anything for the boys."
             ]

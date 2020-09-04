@@ -103,7 +103,7 @@
             organized notes. Stay tuned for the results of these projects, as they're sure to be linked here. Oh, and of course I am actively searching for full time jobs as I near my graduation date. Wish me luck and know that I'm wishing
             you the same in all of your endeavors! Here's a neat quote for your motivation:
         </p>
-        <p class="quote">"If you view all of your problems as opportunities, eventually you'll never have any problems."</p>
+        <p class="quote">"If you view all of your problems as opportunities, eventually you won't have any problems."</p>
         
         <h1 class="quotes-title">What Am I Thinking Right Now?</h1>
         <p class="quote-desc">I thought this simple website might benefit from some JavaScript, so here is a thought generator that will pull a thought (fact) of mine at random. You can kind of think of this as what I am thinking about
@@ -132,11 +132,26 @@ export default {
 </script>
 
 <style scoped>
-.text-column {
-    padding-top: 20px;
-    width: 35%;
-    margin-right: auto;
-    margin-left: auto;
+/* Responsive webpage - desktop*/
+@media (min-width: 770px) {
+    .text-column {
+        padding-top: 20px;
+        width: 35%;
+        margin-right: auto;
+        margin-left: auto;
+        line-height: 1.5;
+    }
+}
+
+/* Responsive webpage - iPad or less*/
+@media (max-width: 769px) {
+    .text-column {
+        padding-top: 20px;
+        width: 70%;
+        margin-right: auto;
+        margin-left: auto;
+        line-height: 1.5;
+    }
 }
 
 .my-name {
