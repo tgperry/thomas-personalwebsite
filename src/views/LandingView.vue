@@ -1,5 +1,9 @@
 <template>
     <div class="landing-view">
+        <vue-headful
+            title="Thomas Perry"
+            description="This is the personal website of Thomas Perry"
+        />
         <Landing />
     </div>
 </template>
