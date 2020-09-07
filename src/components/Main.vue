@@ -17,29 +17,34 @@
         <p class="graduating">B.S. Computer Science, Emphasis in Data Science<br>August 2017 - December 2020 | Cumulative GPA: 3.52</p>
         <p class="classes">
             Here is a list of Computer Science classes I am taking right now:
-            <br>-Computer Simulations (Python)
-            <br>-Machine Learning (Python)
-            <br>-Programming Languages (OCaml, JavaScript)
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=CSCI423">Computer Simulations</a> (Python)
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=CSCI470">Machine Learning</a> (Python)
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=CSCI400">Programming Languages</a> (OCaml, JavaScript)
             <br><br>
             Here is a list of Computer Science classes I enjoyed in the past:
-            <br>-Advanced Software Engineering (Python)
-            <br>-Algorithms (C++, Python)
-            <br>-Databases (SQL, PostgreSQL)
-            <br>-Data Structures (C++)
-            <br>-Game Development (GML, C#)
-            <br>-Programming Concepts (C++)
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=CSCI370">Advanced Software Engineering</a> (Python)
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=CSCI406">Algorithms</a> (C++, Python)
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=CSCI341">Computer Organization</a> (C++, Python)
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=CSCI303">Data Science</a> (Python)
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=CSCI403">Databases</a> (SQL, PostgreSQL)
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=CSCI262">Data Structures</a> (C++)
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=CSCI477">Game Development</a> (GML, C#)
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=MATH332">Linear Algebra</a>
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=CSCI274">Linux OS</a> (Vim)
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=CSCI261">Programming Concepts</a> (C++)
             <br><br>
-            Here is a list of Computer Science classes I enjoyed while abroad in Oviedo, Spain:
-            <br>-Discrete Mathematics
-            <br>-Operating Systems (C)
-            <br>-Software Architecture (TypeScript, HTML, CSS)
+            Here is a list of Computer Science classes I enjoyed while abroad in Oviedo, Spain: <br>
+            (Links are to Mines equivalent courses)
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=CSCI358">Discrete Mathematics</a>
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=CSCI442">Operating Systems</a> (C)
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=CSCI306">Software Architecture</a> (TypeScript, HTML, CSS)
             <br><br>
             Here is a list of Statistics classes I have taken that relate to the Data Science industry:
-            <br>-Applied Statistics
-            <br>-Introduction to Probability and Statistics
-            <br>-Mathematical Statistics
-            <br>-Probability Models
-            <br>-Stochastic Models
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=MATH424">Applied Statistics</a>
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=MATH201">Introduction to Probability and Statistics</a>
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=MATH335">Mathematical Statistics</a>
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=MATH334">Probability</a>
+            <br>-<a class="classes_link" target="_blank" href="https://catalog.mines.edu/search/?search=MATH438">Stochastic Models</a>
         </p>
         <h1 class="school-title">La Universidad de Oviedo - Oviedo, Asturias, ES</h1>
         <p class="graduating">Department of Mathematics and Computer Science 
@@ -50,20 +55,20 @@
 
         <h1 class="experience-title">Experience</h1>
         <p class="experience">It has been an incredible privilege to work for the following companies and collaborate with teams that have helped me grow into the person and professional I am today. I owe it to these coworkers in the same way I owe it to my teachers and professors for giving me the mentorship and guidance to grow and get better at what I love to do.</p>
-        <h1 class="work-title">Trimble, Inc. - Westminster, Colorado, US (Remote)</h1>
+        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://agriculture.trimble.com/">Trimble, Inc.</a> - Westminster, Colorado, US (Remote)</h1>
         <p class="job">Software Engineering Intern (Agriculture Group, GNSS Group)<br>May 2020 - December 2020</p>
         <p class="description">
             Designed and developed the “Vehicle Sync” platform to support collaborative farming among operators in real time using Vue.js, HTML, CSS, Java. Project is a web application served using Android Webview, and I therefore got some experience working in the Android environment and specifically Android Studio.<br>
             Developing GNSS Logging tool to automate diagnosing problems related to in-field satellite disconnects. This project is very similar to what I did with PACCAR, however Trimble's technologies and data storage methods are proprietary, so I am working with minimal documentation. I believe this makes the project a very fun challenge.
         </p>
 
-        <h1 class="work-title">Colorado School of Mines - Golden, Colorado, US (Remote)</h1>
+        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://cs.mines.edu/">Colorado School of Mines</a> - Golden, Colorado, US (Remote)</h1>
         <p class="job">CSCI261 Programming Concepts Tutor<br>August 2020 - December 2020</p>
         <p class="description">
             Tutoring primarily Freshman and Sophomore students in the fundamentals and applications of C++.
         </p>
 
-        <h1 class="work-title">Sunlight Aerospace - Boulder, Colorado, US</h1>
+        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://www.sunlightx.com/">Sunlight Aerospace</a> - Boulder, Colorado, US</h1>
         <p class="job">Contract Software Engineer<br>August 2019 - December 2019</p>
         <p class="description">
             Developed a threat detection sensor to aid unmanned flight of autonomous HALE (High Altitude Long Endurance) drones designed to deliver telecommunications to people or teams in remote locations.<br>
@@ -71,7 +76,7 @@
             Agile well (I know what you're thinking – I thought we actually did perform Agile fairly well) and employed Azure DevOps to ensure organization and simplicity.
         </p>
 
-        <h1 class="work-title">PACCAR - Mt. Vernon, Washington, US</h1>
+        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://www.paccar.com/">PACCAR</a> - Mt. Vernon, Washington, US</h1>
         <p class="job">Advanced Driver Assistance Systems Engineering Intern<br>June 2019 - August 2020</p>
         <p class="description">
             Developed a data mining tool for the autonomous commercial vehicle project using Python, C++, ROS. The tool was designed to extract moments of interest from a stream of data taken from an autonomous vehicle and generate an HTML report for those moments that included interactive plots supported by PlotJuggler and RViz.<br>
@@ -204,9 +209,19 @@ export default {
     margin-block-end: 0.1em;
 }
 
-.graduating, .classes, .job, .description {
+.work-title-link {
+    color: #06A4FF;
+    text-decoration: none;
+}
+
+.graduating, .classes, .job, .description, .classes_link {
     padding: 0px;
     font-size: 13px;
+}
+
+.classes_link {
+    color: #06A4FF;
+    text-decoration: none;
 }
 
 .design-work {
