@@ -3,9 +3,9 @@
         <h1 class="my-name">Thomas Perry</h1>
         <p class="some-description">+1 425 753 1991 | thomasperry@mines.edu</p>
         <div class="links">
-            <a class="github" href="https://github.com/tgperry">GitHub</a>
-            <a class="itch" href="https://thomasgp.itch.io/">Indie Games</a>
-            <a class="linkedin" href="https://www.linkedin.com/in/thomas-perry-csm/">LinkedIn</a>
+            <a class="github" target="_blank" href="https://github.com/tgperry">GitHub</a>
+            <a class="itch" target="_blank" href="https://thomasgp.itch.io/">Indie Games</a>
+            <a class="linkedin" target="_blank" href="https://www.linkedin.com/in/thomas-perry-csm/">LinkedIn</a>
         </div>
         
         <h1 class="about-title">About Me</h1>
