@@ -23,7 +23,7 @@ export default {
                 "Two of my personal goals are to climb every Colorado 14er and visit every country.",
                 "I started Ozark on Netflix, but then I found out I can still watch South Park even with it being off Hulu.",
                 "I prefer travel by boat way more than travel by car.",
-                "Freddie Gibbs is slept on in the music scene, but his Instagram goes crazy.",
+                "I do not have a preference between dogs and cats as I love them both equally.",
                 "TikTok is a clone of Musical.ly which is a clone of Vine, which is a clone of whatever came before it.",
                 "The quote above this section on this website is actually my own.",
                 "I made this website in about 5 hours. Thank you, RedBull!",
@@ -33,13 +33,14 @@ export default {
                 "Fallout is the best RPG franchise on console.",
                 "The Seattle Supersonics would have made more money staying in Seattle than they have in OKC.",
                 "Everyone on HGTV HouseHunters always complains about how small the kitchen is knowing they're just gonna get takeout every night.",
-                "I've had the same core group of friends since Kindergarden. I would do anything for the boys."
+                "I've had the same core group of friends since Kindergarden. I would do anything for the boys.",
+                "The repository for this website is publicly available on my GitHub if you're interested in the project organization."
             ]
         }
     },
     methods: {
         changeQuote() {
-            let choice = Math.floor(Math.random() * Math.floor(26));
+            let choice = Math.floor(Math.random() * Math.floor(27));
             this.thought = this.thoughts[choice];
         }
     }
