@@ -77,7 +77,7 @@
         </p>
 
         <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://www.paccar.com/">PACCAR</a> - Mt. Vernon, Washington, US</h1>
-        <p class="job">Advanced Driver Assistance Systems Engineering Intern<br>June 2019 - August 2020</p>
+        <p class="job">Advanced Driver Assistance Systems Engineering Intern<br>June 2019 - August 2019</p>
         <p class="description">
             Developed a data mining tool for the autonomous commercial vehicle project using Python, C++, ROS. The tool was designed to extract moments of interest from a stream of data taken from an autonomous vehicle and generate an HTML report for those moments that included interactive plots supported by PlotJuggler and RViz.<br>
             Trained in automotive functional safety; ISO26262 protocol; Vector Automotive Software Suite.
