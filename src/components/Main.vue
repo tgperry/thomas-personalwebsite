@@ -53,6 +53,15 @@
             Aside from having an amazing time, gaining a deeper appreciation for the Spanish culture and language, traveling to places all over, and making lifelong friends, I had the incredible honor to collaborate with a group of extremely intelligent computer science students to develop a decentralized, person to person chat application using SOLID, a decentralized web technology under development by Sir Tim Berners-Lee. During that time, I even had the remarkable experience of communicating with Sir Berners-Lee over the SOLID chat room on Gitter. What an incredible experience to place the cherry on top of one of the best times of my life. I cannot wait to travel back to Asturias and see my friends there again.
         </p>
 
+        <h1 class="school-title">Woodinville High School - Woodinville, Washington, US</h1>
+        <p class="graduating">Graduated May 2017 GPA: 4.0 Unweighted
+            <br>-Valedictorian
+            <br>-AP Scholar with Distinction
+            <br>-WHS Track and Field Team Captain, 2017
+            <br>-DECA Competition International First Place, Sports Entertainment Marketing, Anaheim 2017
+            <br>-DECA Competition International First Place, Buying and Merchandising, Nashville 2016
+            <br>-Student Government, Freshman Class Representative            
+
         <h1 class="experience-title">Experience</h1>
         <p class="experience">It has been an incredible privilege to work for the following companies and collaborate with teams that have helped me grow into the person and professional I am today. I owe it to these coworkers in the same way I owe it to my teachers and professors for giving me the mentorship and guidance to grow and get better at what I love to do.</p>
         <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://agriculture.trimble.com/">Trimble, Inc.</a> - Westminster, Colorado, US (Remote)</h1>
