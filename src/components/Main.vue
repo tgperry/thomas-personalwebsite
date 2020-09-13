@@ -55,6 +55,8 @@
 
         <h1 class="school-title">Woodinville High School - Woodinville, Washington, US</h1>
         <p class="graduating">Graduated May 2017 GPA: 4.0 Unweighted
+            <br>
+            <br>Highlighted Accolades:
             <br>-Valedictorian
             <br>-AP Scholar with Distinction
             <br>-WHS Track and Field Team Captain, 2017
