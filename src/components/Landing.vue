@@ -70,7 +70,7 @@ export default {
   }
 
   .textArea {
-    padding-top: 35%;
+    padding-top: 45%;
     padding-left: 5%;
     margin: 0px;
     width: 300px;
@@ -85,9 +85,9 @@ export default {
     padding-top: 10px;
     padding-left: 5%;
     margin: 0px;
-    width: 250px;
+    width: 170px;
 
-    font-size: 30px;
+    font-size: 20px;
     font-family: Helvetica, Arial, sans-serif;
     font-weight: 400;
     color: whitesmoke;
