@@ -116,7 +116,7 @@
         <h1 class="projects-title">What Am I Working On Right Now?</h1>
         <p class="projects">Currently, I am finishing the last of my credits in order to complete my undergraduate degree, tutoring students in the evenings, working part time for Trimble, and working on some side projects
             I am very excited about. Without giving away too much, my side projects include a website that serves video and audio content based on a user's preferences and a machine learning tool that transcribes lectures into
-            organized notes. Stay tuned for the results of these projects, as they're sure to be linked here. Oh, and of course I am preparing to take on a consulting role at Credera as I near my graduation date. Wish me luck and know that I'm wishing
+            organized notes. Stay tuned for the results of these projects, as they're sure to be linked here. Oh, and of course I am preparing to take on a consulting role at Credera in downtown Denver as I near my graduation date. Wish me luck and know that I'm wishing
             you the same in all of your endeavors! Here's a neat quote for your motivation:
         </p>
         <p class="quote">"If you view all of your problems as opportunities, eventually you'll run out of problems."</p>
