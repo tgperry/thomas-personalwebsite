@@ -4,7 +4,7 @@
       <p class="textArea">Hi, I'm Thomas Perry.</p>
       <p class="textAreaBelow">Welcome to my personal website. <br> Click anywhere on the page to proceed.</p>
     </div>
-    <button class="proceed" @click=sendMessage()><router-link class="proceed" to="/main"></router-link></button>
+    <button class="proceed"><router-link class="proceed" to="/main"></router-link></button>
   </div>
 </template>
 
@@ -12,9 +12,7 @@
 export default {
   name: 'Landing',
   methods: {
-    sendMessage() {
-      console.log("Clicked!");
-    }
+    
   }
 }
 </script>

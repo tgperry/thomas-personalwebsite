@@ -9,7 +9,7 @@
         </div>
         
         <h1 class="about-title">About Me</h1>
-        <p class="about">I am currently completing my Senior year at Colorado School of Mines pursuing a BS in Computer Science with an emphasis in Data Science. My experience in jobs, education, and general life has consistently involved creativity, motivation, and high spirits. In my free time I work on personal web and mobile app projects, game development, my culinary skills, and getting outdoors whenever I can. Thank you for visiting my website, I hope it gives you a little better of an idea about myself! If you ever wish to contact me, please do not hesitate from using one of the methods above, I would be happy to hear from you to chat about anything.</p>
+        <p class="about">I am currently completing my Senior year at Colorado School of Mines pursuing a BS in Computer Science with an emphasis in Data Science. Come January, I will begin a full time career as an Open Technology Solutions Consultant at Credera in Denver, Colorado. My experience in jobs, education, and general life has consistently involved creativity, motivation, and high spirits. In my free time I work on personal web and mobile app projects, game development, my culinary skills, and getting outdoors whenever I can. Thank you for visiting my website, I hope it gives you a little better of an idea about myself! If you ever wish to contact me, please do not hesitate from using any of the methods above, I would be happy to hear from you to chat about anything.</p>
         
         <h1 class="education-title">Education</h1>
         <p class="education">Education is at the core of what makes me, me. I have had the distinct privilege of receiving some of the best education possible, from elementary school to my undergrad, and have been supported by the teachers I have met from every level the entire way.</p>
@@ -116,10 +116,10 @@
         <h1 class="projects-title">What Am I Working On Right Now?</h1>
         <p class="projects">Currently, I am finishing the last of my credits in order to complete my undergraduate degree, tutoring students in the evenings, working part time for Trimble, and working on some side projects
             I am very excited about. Without giving away too much, my side projects include a website that serves video and audio content based on a user's preferences and a machine learning tool that transcribes lectures into
-            organized notes. Stay tuned for the results of these projects, as they're sure to be linked here. Oh, and of course I am actively searching for full time jobs as I near my graduation date. Wish me luck and know that I'm wishing
+            organized notes. Stay tuned for the results of these projects, as they're sure to be linked here. Oh, and of course I am preparing to take on a consulting role at Credera as I near my graduation date. Wish me luck and know that I'm wishing
             you the same in all of your endeavors! Here's a neat quote for your motivation:
         </p>
-        <p class="quote">"If you view all of your problems as opportunities, eventually you won't have any problems."</p>
+        <p class="quote">"If you view all of your problems as opportunities, eventually you'll run out of problems."</p>
         
         <h1 class="quotes-title">What Am I Thinking Right Now?</h1>
         <p class="quote-desc">I thought this simple website might benefit from some JavaScript, so here is a thought generator that will pull a thought (fact) of mine at random. You can kind of think of this as what I am thinking about
