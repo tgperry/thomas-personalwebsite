@@ -1,4 +1,4 @@
-# DPIOptics Website
+# Thomas Perry Website
 
 ## Project setup
 ```
