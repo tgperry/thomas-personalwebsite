@@ -1,4 +1,4 @@
-# thomas-website-vue
+# DPIOptics Website
 
 ## Project setup
 ```
