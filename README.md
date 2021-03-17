@@ -1,4 +1,4 @@
-# thomas-website-vue
+# Thomas Perry Website
 
 ## Project setup
 ```
