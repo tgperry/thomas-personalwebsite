@@ -1,7 +1,7 @@
 <template>
     <div class="text-column">
         <h1 class="my-name">Thomas Perry</h1>
-        <p class="some-description">+1 425 753 1991 | thomasperry@alumni.mines.edu</p>
+        <p class="some-description">+1 425 753 1991 | thomasgperry1999@gmail.com</p>
         <div class="links">
             <a class="github" target="_blank" href="https://github.com/tgperry">GitHub</a>
             <a class="itch" target="_blank" href="https://thomasgp.itch.io/">Indie Games</a>
@@ -132,7 +132,7 @@
             <thought-machine />
         </div>
 
-        <p class="copyright">Copyright &copy; 2021 Thomas Perry</p> 
+        <p class="copyright">Copyright &copy; {{ new Date().getFullYear() }} Thomas Perry</p> 
     </div>
 </template>
 
