@@ -9,8 +9,53 @@
         </div>
         
         <h1 class="about-title">About Me</h1>
-        <p class="about">I recently achieved my undergraduate degree in Computer Science with an emphasis in Data Science at the Colorado School of Mines and now hold a role as an Open Technology Solutions Consultant at Credera in Denver, Colorado. My experience in jobs, education, and general life has consistently involved creativity, motivation, and high spirits. In my free time I work on personal web and mobile app projects, game development, my culinary skills, and getting outdoors whenever I can. Thank you for visiting my website, I hope it gives you a little better of an idea about myself! If you ever wish to contact me, please do not hesitate from using any of the methods above, I would be happy to hear from you to chat about anything.</p>
+        <p class="about">I currently work at Credera, a multi-national management and technology solutions consulting firm, as a Senior Software Engineering Consultant in our Seattle office. I started with Credera in 2021 after achieving my undergraduate degree in Computer Science with 
+an emphasis in Data Science at the Colorado School of Mines. My experience in jobs, education, and general life has consistently involved creativity, motivation, and high spirits. In my free time I 
+work on personal web and mobile app projects, my culinary and espresso brewing skills, and getting outdoors whenever I can. Thank you for visiting my website, I hope it gives you a 
+little better of an idea about myself! If you ever wish to contact me, please do not hesitate from using any of the methods above, I would be happy to hear from you to chat about anything.</p>     
+
+        <h1 class="experience-title">Experience</h1>
+        <p class="experience">It has been an incredible privilege to work for the following companies and collaborate with teams that have helped me grow into the person and professional I am today. I owe it to these coworkers in the same way I owe it to my teachers and professors for giving me the mentorship and guidance to grow and get better at what I love to do.</p>
         
+        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://www.credera.com/">Credera</a> - Seattle, Washington, US</h1>
+        <p class="job">Senior Software Engineering Consultant<br>July 2022 - Present</p>
+        <p class="description">
+            The intersection of business and technology is where I find that I thrive and my work as a solutions consultant with Credera puts me right in that sweet spot. My general responsibilties are to engage with business leaders and translate complex ideas into technical requirements that myself and a development team can turn into reality.
+            My primary technical skills in this role are in full stack development with expertise in Spring and analytics, although the nature of the job requires me to pick up new technologies quickly in order to meet the needs of the client. 
+        </p>
+        <p class="job">Software Engineering Consultant<br>January 2021 - July 2022</p>
+        <p class="description">
+            I began with Credera as a Software Engineering Consultant and had the pleasure of working with a variety of fantastic clients and teammates in both the Denver office where I originally started and the Seattle office where I now call home.
+        </p>
+
+        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://agriculture.trimble.com/">Trimble, Inc.</a> - Westminster, Colorado, US (Remote)</h1>
+        <p class="job">Software Engineering Intern (Agriculture Group, GNSS Group)<br>May 2020 - December 2020</p>
+        <p class="description">
+            I designed and developed the “Vehicle Sync” platform to support collaborative farming among operators in real time using Vue.js, HTML, CSS, Java. Vehicle Sync is a web application served using Android Webview, and I therefore got some experience working in the Android environment and specifically Android Studio. 
+            I also developed a GNSS Logging tool to automate issue diagnostics related to in-field satellite disconnects. This project is very similar to what I did with PACCAR, however Trimble's technologies and data storage methods are proprietary, so I was working with reduced documentation. I believe this makes the project a very fun challenge.
+        </p>
+
+        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://cs.mines.edu/">Colorado School of Mines</a> - Golden, Colorado, US (Remote)</h1>
+        <p class="job">CSCI261 Programming Concepts Tutor<br>August 2020 - December 2020</p>
+        <p class="description">
+            Tutored primarily Freshman and Sophomore students in the fundamentals and applications of C++.
+        </p>
+
+        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://www.sunlightx.com/">Sunlight Aerospace</a> - Boulder, Colorado, US</h1>
+        <p class="job">Contract Software Engineer<br>August 2019 - December 2019</p>
+        <p class="description">
+            Developed a threat detection sensor to aid unmanned flight of autonomous HALE (High Altitude Long Endurance) drones designed to deliver telecommunications to people or teams in remote locations. 
+            My team and I collaborated in an Agile environment to produce quality assured Python code (70% object recognition success in flight, 1 second heads up object prediction) based on the YOLO RCNN algorithm. The team I worked on performed
+            Agile well (I know what you're thinking – I thought we actually did perform Agile fairly well) and employed Azure DevOps to ensure organization and simplicity.
+        </p>
+
+        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://www.paccar.com/">PACCAR</a> - Mt. Vernon, Washington, US</h1>
+        <p class="job">Advanced Driver Assistance Systems Engineering Intern<br>June 2019 - August 2019</p>
+        <p class="description">
+            Developed a data mining tool for the autonomous commercial vehicle project using Python, C++, ROS. The tool was designed to extract moments of interest from a stream of data taken from an autonomous vehicle and generate an HTML report for those moments that included interactive plots supported by PlotJuggler and RViz. 
+            While with PACCAR I was trained in automotive functional safety, ISO26262 protocol, and the CANdb++ of the Vector Automotive Software Suite.
+        </p>
+
         <h1 class="education-title">Education</h1>
         <p class="education">Education is at the core of what makes me, me. I have had the distinct privilege of receiving some of the best education possible, from elementary school to my undergrad, and have been supported by the teachers I have met from every level the entire way.</p>
         <h1 class="school-title">Colorado School of Mines - Golden, Colorado, US</h1>
@@ -60,44 +105,7 @@
             <br>-WHS Track and Field Team Captain, 2017
             <br>-DECA Competition International First Place, Sports Entertainment Marketing, Anaheim 2017
             <br>-DECA Competition International First Place, Buying and Merchandising, Nashville 2016
-            <br>-Student Government, Freshman Class Representative            
-
-        <h1 class="experience-title">Experience</h1>
-        <p class="experience">It has been an incredible privilege to work for the following companies and collaborate with teams that have helped me grow into the person and professional I am today. I owe it to these coworkers in the same way I owe it to my teachers and professors for giving me the mentorship and guidance to grow and get better at what I love to do.</p>
-        
-        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://www.credera.com/">Credera</a> - Denver, Colorado, US</h1>
-        <p class="job">Open Technology Solutions Consultant<br>January 2021 - Present</p>
-        <p class="description">
-            My work as a consultant with Credera allows me to continue doing what I love, which is the exploration and implementation of new and interesting technologies in the field of software. I am also incredibly excited to begin my career in Denver and look forward to exploring the city more in a safe and responsible manner amid the pandemic.
-        </p>
-
-        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://agriculture.trimble.com/">Trimble, Inc.</a> - Westminster, Colorado, US (Remote)</h1>
-        <p class="job">Software Engineering Intern (Agriculture Group, GNSS Group)<br>May 2020 - December 2020</p>
-        <p class="description">
-            Designed and developed the “Vehicle Sync” platform to support collaborative farming among operators in real time using Vue.js, HTML, CSS, Java. Project is a web application served using Android Webview, and I therefore got some experience working in the Android environment and specifically Android Studio.<br>
-            Developing GNSS Logging tool to automate diagnosing problems related to in-field satellite disconnects. This project is very similar to what I did with PACCAR, however Trimble's technologies and data storage methods are proprietary, so I am working with minimal documentation. I believe this makes the project a very fun challenge.
-        </p>
-
-        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://cs.mines.edu/">Colorado School of Mines</a> - Golden, Colorado, US (Remote)</h1>
-        <p class="job">CSCI261 Programming Concepts Tutor<br>August 2020 - December 2020</p>
-        <p class="description">
-            Tutoring primarily Freshman and Sophomore students in the fundamentals and applications of C++.
-        </p>
-
-        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://www.sunlightx.com/">Sunlight Aerospace</a> - Boulder, Colorado, US</h1>
-        <p class="job">Contract Software Engineer<br>August 2019 - December 2019</p>
-        <p class="description">
-            Developed a threat detection sensor to aid unmanned flight of autonomous HALE (High Altitude Long Endurance) drones designed to deliver telecommunications to people or teams in remote locations.<br>
-            Collaborated in an Agile environment to produce quality assured Python code (70% object recognition success in flight, 1 second heads up object prediction) based on the YOLO RCNN algorithm. The team I worked on performed
-            Agile well (I know what you're thinking – I thought we actually did perform Agile fairly well) and employed Azure DevOps to ensure organization and simplicity.
-        </p>
-
-        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://www.paccar.com/">PACCAR</a> - Mt. Vernon, Washington, US</h1>
-        <p class="job">Advanced Driver Assistance Systems Engineering Intern<br>June 2019 - August 2019</p>
-        <p class="description">
-            Developed a data mining tool for the autonomous commercial vehicle project using Python, C++, ROS. The tool was designed to extract moments of interest from a stream of data taken from an autonomous vehicle and generate an HTML report for those moments that included interactive plots supported by PlotJuggler and RViz.<br>
-            Trained in automotive functional safety; ISO26262 protocol; Vector Automotive Software Suite.
-        </p>
+            <br>-Student Government, Freshman Class Representative       
 
         <h1 class="design-title">Design Work</h1>
         <p class="design">Since I was a kid I have been very interested in design and art of all mediums. I have had the privilege of visiting art museums all over the world, always making a point to do so on my travels, but my favorite of all time 
@@ -108,7 +116,7 @@
         </p>
 
         <img class="design-work" src="../assets/DPIOpticsC2.png"/>
-        <p class="design-description">A logo done for my father's consulting business. Designing this with him was some of the most fun in front of a computer I have ever had.</p>
+        <p class="design-description">A logo done for my dad's consulting business. Designing this with him was some of the most fun in front of a computer I have ever had – who knew your own dad would be your favorite client! And it was pro bono!</p>
         <img class="design-work" src="../assets/MMPLogo.png"/>
         <p class="design-description">A logo done for the painting company I worked for while in high school. I still love getting out and doing manual labor of all kinds, my favorite is mowing the lawn.</p>
         <img class="design-work-special" src="../assets/MOPGALogo.png"/>
@@ -119,25 +127,22 @@
         <p class="design-description">This is me in pixel art, haha!</p>
 
         <h1 class="projects-title">What Am I Working On Right Now?</h1>
-        <p class="projects">Currently, I am holding a role at Credera as a Software Consultant and working on some side projects. Without giving away too much, my side projects include a website that serves video and audio content based on a user's preferences and a machine learning tool that transcribes lectures into
+        <p class="projects">Currently, I am holding a role at Credera as a Senior Software Engineering Consultant and working on some side projects. Without giving away too much, my side projects include a website that serves video and audio content based on a user's preferences and a machine learning tool that transcribes lectures into
             organized notes. Stay tuned for the results of these projects, as they're sure to be linked here. Wish me luck and know that I'm wishing you the same in all of your endeavors! Here's a neat quote for your motivation:
         </p>
         <p class="quote">"If you view all of your problems as opportunities, eventually you'll run out of problems."</p>
-        
-        <h1 class="quotes-title">What Am I Thinking Right Now?</h1>
-        <p class="quote-desc">I thought this simple website might benefit from some JavaScript, so here is a thought generator that will pull a thought (fact) of mine at random. You can kind of think of this as what I am thinking about
-            right now. Have fun!
+        <h1 class="quotes-title">That's Thomas!</h1>
+        <p class="quote-desc">Now that you've read through my site and learned all about me, it's time to test your new knowledge in a classic game of <i>That's Thomas!</i> Simply begin the game and choose "That's Thomas!" if you believe the statement about me is correct or "Wrong!" if you know it just isn't true. Good luck and have fun!
         </p>
         <div class="quotes">
-            <thought-machine />
+            <true-false />
         </div>
-
         <p class="copyright">Copyright &copy; {{ new Date().getFullYear() }} Thomas Perry</p> 
     </div>
 </template>
 
 <script>
-import ThoughtMachine from './Thoughts.vue';
+import TrueFalse from './TrueFalse.vue';
 
 export default {
   name: 'Main',
@@ -145,7 +150,7 @@ export default {
     
   },
   components: {
-      ThoughtMachine
+    TrueFalse
   }
 }
 </script>
@@ -281,7 +286,7 @@ export default {
 }
 
 .copyright {
-    padding-top: 40px;
+    padding-top: 25px;
     padding-bottom: 20px;
     color: gray;
     font-size: 12px;
