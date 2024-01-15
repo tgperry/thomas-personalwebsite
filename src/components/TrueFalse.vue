@@ -90,7 +90,7 @@ export default {
     border-radius: 20px;
     width: 30%;
     height: 100%;
-    font-size: 20px;
+    font-size: 100%;
     min-height: 60px;
 }
 .thought-generator-left {
@@ -102,7 +102,7 @@ export default {
     border-radius: 20px;
     width: 30%;
     height: 100%;
-    font-size: 20px;
+    font-size: 100%;
     min-height: 60px;
     margin-left: auto;
     margin-right: 2%;
@@ -117,11 +117,22 @@ export default {
     border-radius: 20px;
     width: 30%;
     height: 100%;
-    font-size: 20px;
+    font-size: 100%;
     min-height: 60px;
     margin-right: auto;
     margin-left: 2%;
     float: right
+}
+/* Responsive webpage - iPad or less*/
+@media (max-width: 769px) {
+    .thought-generator-left {
+        font-size: 80%;
+        width: 40%;
+    }
+    .thought-generator-right {
+        font-size: 80%;
+        width: 40%;
+    }
 }
 .score {
     text-align: center;
