@@ -1,7 +1,6 @@
 {
   "name": "thomas-website-vue",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "start": "vue-cli-service serve",
