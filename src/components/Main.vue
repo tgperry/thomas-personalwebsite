@@ -9,19 +9,27 @@
         </div>
         
         <h1 class="about-title">About Me</h1>
-        <p class="about">I currently work at Credera, a multi-national management and technology solutions consulting firm, as a Senior Software Engineering Consultant in our Seattle office. I started with Credera in 2021 after achieving my undergraduate degree in Computer Science with 
-an emphasis in Data Science at the Colorado School of Mines. My experience in jobs, education, and general life has consistently involved creativity, motivation, and high spirits. In my free time I 
+        <p class="about">I currently work at Starbucks as a Technical Product Manager in the Seattle Starbucks Support Center. Working in Starbucks' technology division has allowed me to work on challenging projects leveraging unique and exciting software with a guarantee that no two days will be the same. My experience in jobs, education, and general life has consistently involved creativity, motivation, and high spirits. In my free time I 
 work on personal web and mobile app projects, my culinary and espresso brewing skills, and getting outdoors whenever I can. Thank you for visiting my website, I hope it gives you a 
 little better of an idea about myself! If you ever wish to contact me, please do not hesitate from using any of the methods above, I would be happy to hear from you to chat about anything.</p>     
 
         <h1 class="experience-title">Experience</h1>
         <p class="experience">It has been an incredible privilege to work for the following companies and collaborate with teams that have helped me grow into the person and professional I am today. I owe it to these coworkers in the same way I owe it to my teachers and professors for giving me the mentorship and guidance to grow and get better at what I love to do.</p>
         
-        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://www.credera.com/">Credera</a> - Seattle, Washington, US</h1>
-        <p class="job">Senior Software Engineering Consultant<br>July 2022 - Present</p>
+        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://www.starbucks.com/">Starbucks</a> - Seattle, Washington, US</h1>
+        <p class="job">Technical Product Manager<br>May 2024 - Present</p>
         <p class="description">
-            The intersection of business and technology is where I find that I thrive and my work as a solutions consultant with Credera puts me right in that sweet spot. My general responsibilties are to engage with business leaders and translate complex ideas into technical requirements that myself and a development team can turn into reality.
-            My primary technical skills in this role are in full stack development with expertise in Spring and analytics, although the nature of the job requires me to pick up new technologies quickly in order to meet the needs of the client. 
+            As a Technical Product Manager (TPM) at Starbucks, my mission is to take an idea from the product team, work with design on a vision, and translate that design into technical requirements that myself and my engineering team can then bring to life. So far, my time at Starbucks can be broken down into two distinct projects: the transformation of the Product API from REST into GraphQL and supporting the progress
+            of the Digital Menu Board effort. I was initially brought aboard for the former, but once we got the project off the ground and into a maintenance mode, I transferred over to the latter as it is one of the company's top technical objectives and investments. Leveraging GraphQL helped us synthesize a variety of different, but well organized microservices into a single API endpoint capable of delivering precise product data payloads
+            based on the consumer's request. The Digital Menu Board project is an ongoing effort to transform print menus that you would see behind the counter of a Starbucks cafe into digital menus, capable of rendering dynamic content based on the desires of creative personnel.
+        </p>
+
+        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://www.credera.com/">Credera</a> - Seattle, Washington, US</h1>
+        <p class="job">Senior Software Engineering Consultant<br>July 2022 - May 2024</p>
+        <p class="description">
+            The intersection of business and technology is where I find that I thrive and my work as a solutions consultant with Credera put me right in that sweet spot. My general responsibilties were to engage with business leaders and translate complex ideas into technical requirements that myself and a development team could turn into reality.
+            My primary technical skills leveraged in this role were full stack development with expertise in API development (Spring, Java) and analytics implementations (Google Analytics), although the nature of the job required me to pick up new and diverse technologies quickly in order to meet the needs of the client. One of the most educational, challenging, and
+            entertaining parts of the job was diving into how different companies ran their software teams and platforms. I believe the privilege of this experience helped me understand what "works" and what doesn't for companies with both large (public, millions of users) and small (internal, hundreds of users) software platforms.
         </p>
         <p class="job">Software Engineering Consultant<br>January 2021 - July 2022</p>
         <p class="description">
@@ -106,7 +114,7 @@ little better of an idea about myself! If you ever wish to contact me, please do
             <br>-DECA Competition International First Place, Sports Entertainment Marketing, Anaheim 2017
             <br>-DECA Competition International First Place, Buying and Merchandising, Nashville 2016
             <br>-Student Government, Freshman Class Representative       
-
+        </p>
         <h1 class="design-title">Design Work</h1>
         <p class="design">Since I was a kid I have been very interested in design and art of all mediums. I have had the privilege of visiting art museums all over the world, always making a point to do so on my travels, but my favorite of all time 
             is in my hometown, the Seattle Art Museum. The second semester of my junior year at Mines, I was able to take part in a special topics class on the history of art and its relation to the environment. Taking that class further solidified my belief
@@ -127,7 +135,7 @@ little better of an idea about myself! If you ever wish to contact me, please do
         <p class="design-description">This is me in pixel art, haha!</p>
 
         <h1 class="projects-title">What Am I Working On Right Now?</h1>
-        <p class="projects">Currently, I am holding a role at Credera as a Senior Software Engineering Consultant and working on some side projects. Without giving away too much, my side projects include a website that serves video and audio content based on a user's preferences and a machine learning tool that transcribes lectures into
+        <p class="projects">Currently, I am holding a role at Starbucks as a Technical Product Manager and working on some side projects. Without giving away too much, my side projects include a website that serves video and audio content based on a user's preferences and a machine learning tool that transcribes lectures into
             organized notes. Stay tuned for the results of these projects, as they're sure to be linked here. Wish me luck and know that I'm wishing you the same in all of your endeavors! Here's a neat quote for your motivation:
         </p>
         <p class="quote">"If you view all of your problems as opportunities, eventually you'll run out of problems."</p>
@@ -145,7 +153,7 @@ little better of an idea about myself! If you ever wish to contact me, please do
 import TrueFalse from './TrueFalse.vue';
 
 export default {
-  name: 'Main',
+  name: 'Main-Page',
   methods: {
     
   },

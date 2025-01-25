@@ -1,32 +1,30 @@
-import Vue from 'vue'
-import VueRouter from 'vue-router'
 import Landing from '../views/LandingView.vue'
 import Main from '../views/MainView.vue'
 import PageNotFound from '../views/PageNotFound.vue'
-
-Vue.use(VueRouter)
+import { createRouter, createWebHistory } from 'vue-router';
 
 const routes = [
     {
         path: '/',
-        name: 'Landing',
+        name: 'Landing-Page',
         component: Landing
     },
     {
         path: '/main',
-        name: 'Main',
+        name: 'Main-Page',
         component: Main
     },
     {
-        path: '*',
+        path: '/:pathMatch(.*)*',
         name: 'BadUrl',
         component: PageNotFound
     }
 ]
 
-const router = new VueRouter({
-    mode: 'history',
+const router = createRouter({
+    history: createWebHistory(),
     routes
-})
+  });
+  
 
 export default router

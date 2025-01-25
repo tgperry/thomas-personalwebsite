@@ -1,10 +1,17 @@
 steps:
-- name: node:10.15.1
+- name: node:22.13.1
   entrypoint: npm
   args: ["install"]
-- name: node:10.15.1
+- name: node:22.13.1
   entrypoint: npm
   args: ["run", "build"]
-- name: "gcr.io/cloud-builders/gcloud"
-  args: ["app", "deploy"]
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  entrypoint: 'bash'
+  args: ['-c', 'gcloud config set app/cloud_build_timeout 1600 && gcloud app deploy']
+options:
+  logging: CLOUD_LOGGING_ONLY
+artifacts:
+    npmPackages:
+    - repository: 'https://us-west1-npm.pkg.dev/thomas-personal-website/tgp'
+      packagePath: '.'
 timeout: "1600s"
