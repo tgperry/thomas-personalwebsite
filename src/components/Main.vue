@@ -27,7 +27,7 @@ little better of an idea about myself! If you ever wish to contact me, please do
         <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://www.credera.com/">Credera</a> - Seattle, Washington, US</h1>
         <p class="job">Senior Software Engineering Consultant<br>July 2022 - May 2024</p>
         <p class="description">
-            The intersection of business and technology is where I find that I thrive and my work as a solutions consultant with Credera put me right in that sweet spot. My general responsibilties were to engage with business leaders and translate complex ideas into technical requirements that myself and a development team could turn into reality.
+            The intersection of business and technology is where I find that I thrive and my work as a solutions consultant with Credera put me right in that sweet spot. My general responsibilities were to engage with business leaders and translate complex ideas into technical requirements that myself and a development team could turn into reality.
             My primary technical skills leveraged in this role were full stack development with expertise in API development (Spring, Java) and analytics implementations (Google Analytics), although the nature of the job required me to pick up new and diverse technologies quickly in order to meet the needs of the client. One of the most educational, challenging, and
             entertaining parts of the job was diving into how different companies ran their software teams and platforms. I believe the privilege of this experience helped me understand what "works" and what doesn't for companies with both large (public, millions of users) and small (internal, hundreds of users) software platforms.
         </p>
