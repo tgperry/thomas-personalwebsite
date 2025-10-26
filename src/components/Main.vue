@@ -17,7 +17,7 @@ little better of an idea about myself! If you ever wish to contact me, please do
         <p class="experience">It has been an incredible privilege to work for the following companies and collaborate with teams that have helped me grow into the person and professional I am today. I owe it to these coworkers in the same way I owe it to my teachers and professors for giving me the mentorship and guidance to grow and get better at what I love to do.</p>
         
         <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://www.underdogfantasy.com/#">Underdog Fantasy</a> - Brooklyn, New York, US (Remote)</h1>
-        <p class="job">Software Engineer - Ruby on Rails<br>June 2024 - Present</p>
+        <p class="job">Software Engineer - Ruby on Rails<br>June 2025 - Present</p>
         <p class="description">
             Underdog's mission is to make sports more fun and this is the outcome I've found while personally using the app and while helping to build it. I primarily work on the back-of-house tooling and wagering experience in my capacity as a Software Engineer at Underdog; seeking to create a seamless experience for both internal and external users in our shared goal of deriving more excitement from sports. If you have any questions about
             the Underdog app or my experience working here, please don't hesitate to reach out!
