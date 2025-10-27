@@ -9,18 +9,25 @@
         </div>
         
         <h1 class="about-title">About Me</h1>
-        <p class="about">I currently work at Starbucks as a Technical Product Manager in the Seattle Starbucks Support Center. Working in Starbucks' technology division has allowed me to work on challenging projects leveraging unique and exciting software with a guarantee that no two days will be the same. My experience in jobs, education, and general life has consistently involved creativity, motivation, and high spirits. In my free time I 
+        <p class="about">I currently work at Underdog Fantasy as a Ruby on Rails Software Engineer from my home office in the Greater Seattle area. My experience in jobs, education, and general life has consistently involved creativity, motivation, and high spirits. In my free time I 
 work on personal web and mobile app projects, my culinary and espresso brewing skills, and getting outdoors whenever I can. Thank you for visiting my website, I hope it gives you a 
 little better of an idea about myself! If you ever wish to contact me, please do not hesitate from using any of the methods above, I would be happy to hear from you to chat about anything.</p>     
 
         <h1 class="experience-title">Experience</h1>
         <p class="experience">It has been an incredible privilege to work for the following companies and collaborate with teams that have helped me grow into the person and professional I am today. I owe it to these coworkers in the same way I owe it to my teachers and professors for giving me the mentorship and guidance to grow and get better at what I love to do.</p>
         
-        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://www.starbucks.com/">Starbucks</a> - Seattle, Washington, US</h1>
-        <p class="job">Technical Product Manager<br>May 2024 - Present</p>
+        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://www.underdogfantasy.com/#">Underdog Fantasy</a> - Brooklyn, New York, US (Remote)</h1>
+        <p class="job">Software Engineer - Ruby on Rails<br>June 2025 - Present</p>
         <p class="description">
-            As a Technical Product Manager (TPM) at Starbucks, my mission is to take an idea from the product team, work with design on a vision, and translate that design into technical requirements that myself and my engineering team can then bring to life. So far, my time at Starbucks can be broken down into two distinct projects: the transformation of the Product API from REST into GraphQL and supporting the progress
-            of the Digital Menu Board effort. I was initially brought aboard for the former, but once we got the project off the ground and into a maintenance mode, I transferred over to the latter as it is one of the company's top technical objectives and investments. Leveraging GraphQL helped us synthesize a variety of different, but well organized microservices into a single API endpoint capable of delivering precise product data payloads
+            Underdog's mission is to make sports more fun and this is the outcome I've found while personally using the app and while helping to build it. I primarily work on the back-of-house tooling and wagering experience in my capacity as a Software Engineer at Underdog; seeking to create a seamless experience for both internal and external users in our shared goal of deriving more excitement from sports. If you have any questions about
+            the Underdog app or my experience working here, please don't hesitate to reach out!
+        </p>
+
+        <h1 class="work-title"><a class="work-title-link" target="_blank" href="https://www.starbucks.com/">Starbucks</a> - Seattle, Washington, US</h1>
+        <p class="job">Technical Product Manager<br>May 2024 - June 2025</p>
+        <p class="description">
+            As a Technical Product Manager (TPM) at Starbucks, my mission was to take an idea from the product team, work with design on a vision, and translate that design into technical requirements that myself and my engineering team could then bring to life. My time at Starbucks can be broken down into two distinct projects: the transformation of the Product API from REST into GraphQL and supporting the progress
+            of the Digital Menu Board effort. I was initially brought aboard for the former, but once we got the project off the ground and into a maintenance state, I transferred over to the latter as it is one of the company's top technical objectives and investments. Leveraging GraphQL helped us synthesize a variety of different, but well organized microservices into a single API endpoint capable of delivering precise product data payloads
             based on the consumer's request. The Digital Menu Board project is an ongoing effort to transform print menus that you would see behind the counter of a Starbucks cafe into digital menus, capable of rendering dynamic content based on the desires of creative personnel.
         </p>
 
